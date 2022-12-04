@@ -1,6 +1,6 @@
 # BIT_projekt_datasets
 
-#Téma: Log collection & processing architectures (benchmarks of everything)
+# Téma: Log collection & processing architectures (benchmarks of everything)
 
 
 Tento repozitár obsahuje 9 datasetov s vygenerovanými logmi, ktoré sme používali na predmete BIT pri semestrálnom projekte. Tabuľka nižšie obsahuje popis jednotlivých datasetov.
