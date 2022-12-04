@@ -6,7 +6,6 @@
 Tento repozitár obsahuje 9 datasetov s vygenerovanými logmi, ktoré sme používali na predmete BIT pri semestrálnom projekte. Tabuľka nižšie obsahuje popis jednotlivých datasetov.
 
 |dataset|nástroj|formát|počet logov| časové rozpätie|
-----|----|-----|-----|-----|
 1.	|flog|	apache_common	| 30000 |	Nov 20, 2022 - Dec 11, 2022
 2.	|flog|	apache_combined	| 30000 |	Nov 20, 2022 - Dec 11, 2022
 3.	|flog|	apache_error	| 30000 |	Nov 20, 2022 - Dec 11, 2022
